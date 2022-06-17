@@ -1,0 +1,144 @@
+/* Container holding the image and the text */
+.container-1 {
+     position: relative;
+     text-align: center;
+     color: white;
+}
+
+/* Bottom left text */
+.bottom-left-1 {
+     position: absolute;
+     bottom: 8px;
+     left: 16px;
+}
+
+/* Top left text */
+.top-left-1 {
+     position: absolute;
+     top: 8px;
+     left: 16px;
+}
+
+/* Top right text */
+.top-right-1 {
+     position: absolute;
+     top: 8px;
+     right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right-1 {
+     position: absolute;
+     bottom: 8px;
+     right: 16px;
+}
+
+/* Centered text */
+.centered-1 {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+}
+
+.justify-content-1 {
+     justify-content: space-between;
+}
+
+@media only screen and (max-width: 620px) {
+     .justify-content-1 {
+          justify-content: center;
+     }
+}
+
+._1HGGJ ._1TcX9 ._2md7D._3FUI- {
+     background-attachment: fixed;
+     background-size: cover;
+ }
+
+/*  
+element.style {
+     background-image: url(https://static.wixstatic.com/media/11062b_327f9b5…~mv2.jpg);
+ } */
+
+ 
+ ._1HGGJ ._1TcX9 ._21LNp {
+     width: 325px;
+     height: 100%;
+     margin-top: 41px;
+     margin-left: 40px;
+     padding-left: 40px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+ }
+
+ ._1HGGJ .rHi_f._3FUI- {
+     background-attachment: fixed;
+     background-size: cover;
+ }
+ 
+ ._1HGGJ .rHi_f {
+     width: 100%;
+     height: 248px;
+     background-position: 50%;
+     background-repeat: no-repeat;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     position: relative;
+ }
+
+ ._1HGGJ ._1TcX9 {
+     width: 100%;
+     height: 280px;
+     position: relative;
+ }
+
+ ._1HGGJ ._1TcX9 ._2md7D._3FUI- {
+     background-attachment: fixed;
+     background-size: cover;
+ }
+
+ ._1HGGJ ._1TcX9 ._2md7D {
+     position: absolute;
+     right: 40px;
+     top: 25px;
+     width: 262px;
+     height: 230px;
+     background-position: 50%;
+     background-repeat: no-repeat;
+ }
+
+ ._1HGGJ ._1TcX9 ._21LNp ._1l7ra {
+     width: 214px;
+     font-family: ProximaNova;
+     font-size: 9px;
+     line-height: 1.56;
+     margin-top: 11px;
+ }
+
+ ._1HGGJ ._1TcX9 ._21LNp .j_ydd {
+     width: 206px;
+     height: 19px;
+     font-family: Avenir;
+     font-size: 17px;
+     font-weight: 900;
+ }
+ 
+ ._1HGGJ ._1TcX9 ._2md7D._3FUI- {
+     background-attachment: fixed;
+     background-size: cover;
+ }
+ 
+ ._1HGGJ ._1TcX9 ._2md7D {
+     position: absolute;
+     right: 40px;
+     top: 25px;
+     width: 262px;
+     height: 230px;
+     background-position: 50%;
+     background-repeat: no-repeat;
+ }
+ 
