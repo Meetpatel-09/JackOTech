@@ -65,3 +65,25 @@
         margin-right: 0px;
      }
 }
+
+@media screen and (max-width: 700px){    /* moblie */
+     #bg-img-1{
+         content:url("../images/bg2.jpg");
+     } 
+ }
+ 
+ @media screen and (min-width: 701px) {  /* tablet */
+     #bg-img-1{      
+        content:url("../images/bg3.jpg");
+      } 
+ } 
+ @media (min-width: 992px){ /* desktop */
+       #bg-img-1{        
+           content:url("../images/bg3-min.jpg");  
+       } 
+ }
+ @media (min-width: 1200px) {    /* desktop */
+      #bg-img-1{         
+          content:url("../images/bg3-min.jpg");   
+      } 
+ }
